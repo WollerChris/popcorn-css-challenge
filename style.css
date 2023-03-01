@@ -1,5 +1,67 @@
 /*COLORS:
+
 Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+.header {
+    background-color: #FFDBAA;
+    height: 100px;
+}
+
+.section2 {
+    background-color: #D4A76A;
+}
+
+.button {
+    background-color: #805215;
+    width: 90px;
+    height: 40px;
+    border: 1px black;            
+    font-size: 15px; 
+    color: white; 
+    font-weight: bold; 
+    vertical-align: middle;
+
+}
+
+.div1 {
+    background-color: white;
+    width: 220px;
+    height: 130px;
+    vertical-align: middle;
+    box-shadow: 0 0 10px 1px black;
+    margin-left: 100px;
+    margin-top: 25px;
+
+}
+
+.divHeader {
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.par {
+    padding-left: 5px;
+    font-size: 14px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+
+
+}
+
+.button2 {
+    background-color: #805215;
+    width: 200px;
+    height: 40px;
+    border: 1px black;            
+    font-size: 15px; 
+    color: white; 
+    font-weight: bold; 
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 10px;
+
+}
