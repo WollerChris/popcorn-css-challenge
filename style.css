@@ -1,9 +1,3 @@
-/*COLORS:
-
-Header background - #FFDBAA
-button - #805215
-Header Text - #553100
-Main background - #D4A76A*/
 
 .header {
     background-color: #FFDBAA;
@@ -67,8 +61,30 @@ Main background - #D4A76A*/
 }
 
 .demo div {
-    float: left;
+    float:left;
+}
 
+.div2 {
+    background-color: white;
+    width: 930px;
+    height: 160px;
+    vertical-align: middle;
+    box-shadow: 0 0 10px 1px black;
+    margin-left: 65px;
+    margin-top: 25px;
 
+}
+
+.button3 {
+    background-color: #805215;
+    width: 890px;
+    height: 40px;
+    border: 1px black;            
+    font-size: 15px; 
+    color: white; 
+    font-weight: bold; 
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 20px;
 
 }
