@@ -29,7 +29,7 @@ Main background - #D4A76A*/
 .div1 {
     background-color: white;
     width: 220px;
-    height: 130px;
+    height: 160px;
     vertical-align: middle;
     box-shadow: 0 0 10px 1px black;
     margin-left: 100px;
@@ -63,5 +63,12 @@ Main background - #D4A76A*/
     vertical-align: middle;
     text-align: center;
     margin-left: 10px;
+
+}
+
+.demo div {
+    float: left;
+
+
 
 }
